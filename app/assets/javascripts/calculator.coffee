@@ -11,7 +11,7 @@ $(document).ready ->
 		if !(volume =  $("#volume").val())
 			$(".alert-danger > strong").html("Por favor, informe a quantidade")
 			$(".alert-danger").attr("style", "")
-			$("#volume").focus()
+			# $("#volume").focus()
 			return
 
 		if !(alcoholicPercentage = $("#alcoholicPercentage").val())
@@ -29,9 +29,11 @@ $(document).ready ->
 		totalAlcohol = (alcoholicPercentage * volume) / 100
 		pricePerML = price / totalAlcohol
 
+		console.log "Round: " + Math.round(pricePerML)
+
 		if (pricePerML = pricePerML.toFixed(2)) == "0.00"
 			pricePerML = "menos de 1 centavo"
 		else
 			pricePerML = "R$" + pricePerML
 
-		$("#price-per-ml").html "Preço por mL de álcool: " + pricePerML
+		$("#price-per-ml").append "Preço por mL de álcool: " + pricePerML + "<hr>"

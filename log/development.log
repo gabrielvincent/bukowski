@@ -5569,3 +5569,1011 @@ Started GET "/" for ::1 at 2017-02-28 14:13:26 -0300
 Processing by CalculatorController#index as HTML
   Rendered calculator/index.html.erb within layouts/application (2.1ms)
 Completed 200 OK in 88ms (Views: 87.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 15:33:10 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 192ms (Views: 184.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 15:42:52 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 167ms (Views: 165.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-ad311749a169ceb71fdfce71831908537b08893f84829014c2a483508b17776f.css?body=1" for ::1 at 2017-02-28 15:42:52 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:43:19 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 115ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-6968f25a86639600745500159f94693e722e1a30630182388d945a427560cb7d.css?body=1" for ::1 at 2017-02-28 15:43:19 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:43:30 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 123ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-57d0180ec08eae8149275943f92f1ca7ad89399508f87b32e4bc1e912bb9a6fb.css?body=1" for ::1 at 2017-02-28 15:43:30 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:43:44 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 193ms (Views: 192.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-5bcfd7fecc753e22e5434b3b52e933942e46c6b015aeeafe1e54a295353c0fe3.css?body=1" for ::1 at 2017-02-28 15:43:44 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:44:32 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 124ms (Views: 123.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e02d0f072c4393724ac792f43efd5567499f877daec25a9c6a2e6cd75e266bc7.css?body=1" for ::1 at 2017-02-28 15:44:32 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:46:41 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 107ms (Views: 106.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-50d590d76a63cd5a9b7ceeac8b28ef4e767ed4d73e0c749affe2300c63e29428.css?body=1" for ::1 at 2017-02-28 15:46:42 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:46:52 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 104ms (Views: 103.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-6618d52472bf8572307ec6be6624f5fbbb8f1bdcc94f40c8b22a5d0522e977e1.css?body=1" for ::1 at 2017-02-28 15:46:52 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:47:10 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 53ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 15:47:32 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 120ms (Views: 119.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e7393cffcfdb699a5faa905633400cbceaa4516b5f1ef3e4f5b232e34a9e7250.css?body=1" for ::1 at 2017-02-28 15:47:32 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:48:09 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 108ms (Views: 107.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-7b180e60af8ae11944e9f658992f49fc9ea506f2e4ed4106bcbdb41224080990.css?body=1" for ::1 at 2017-02-28 15:48:10 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:48:18 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 110ms (Views: 108.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-eef8636d02f4535a431608ef1ae6eb520a3aca99fc441311c148cea52ebaafb5.css?body=1" for ::1 at 2017-02-28 15:48:18 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:48:26 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 109ms (Views: 107.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-ce3dc6741273a3e66cc7db881287bae0ddfee2028913737af3ed8eccf318bf15.css?body=1" for ::1 at 2017-02-28 15:48:26 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:49:11 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 124ms (Views: 123.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-16908e82c97bd5214c499570d8ecb84579d7f1684c2f3803f996f932637e0663.css?body=1" for ::1 at 2017-02-28 15:49:11 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:51:16 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 111ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-bfcbb5da284f77c73473b28ef766f9b330df44616b3adc1cf8040d60b66d4a95.css?body=1" for ::1 at 2017-02-28 15:51:16 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:51:34 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 116ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-f06c3d98147bb9fe93897cfc28f77edfb07f5bb1162e99313bca8ae9a6fedaf6.css?body=1" for ::1 at 2017-02-28 15:51:34 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:51:40 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-a4f9586c0007487ebf58326732682551236f83ee5066b40190fdc8e8327491dc.css?body=1" for ::1 at 2017-02-28 15:51:41 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:52:51 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 113ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-c98532350c14a4a486cbadaf5144dcffe77d7232f0e0b9e38b708a02930ec39d.css?body=1" for ::1 at 2017-02-28 15:52:52 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:53:19 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 78ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-c98532350c14a4a486cbadaf5144dcffe77d7232f0e0b9e38b708a02930ec39d.css?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 15:53:19 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 15:53:20 -0300
+
+
+Started GET "/assets/calculator.self-f070b729adc53898fe7813fb8cd437d991b5fd3adcd62326f4627fc12fe86a74.js?body=1" for ::1 at 2017-02-28 15:53:20 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 15:53:20 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:53:48 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 109ms (Views: 108.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-20f0d58ad49ac9c78521b1c4c4de29e0af253d8ef09935bedc7854a915c99ed0.css?body=1" for ::1 at 2017-02-28 15:53:48 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:53:51 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-20f0d58ad49ac9c78521b1c4c4de29e0af253d8ef09935bedc7854a915c99ed0.css?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 15:53:51 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/calculator.self-f070b729adc53898fe7813fb8cd437d991b5fd3adcd62326f4627fc12fe86a74.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 15:53:52 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 15:59:18 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 76ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/calculator.self-20f0d58ad49ac9c78521b1c4c4de29e0af253d8ef09935bedc7854a915c99ed0.css?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 15:59:18 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/assets/calculator.self-f070b729adc53898fe7813fb8cd437d991b5fd3adcd62326f4627fc12fe86a74.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 15:59:19 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:00:05 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 16:00:34 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 109ms (Views: 107.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-1884ac23830f5904e4aafc1e401e7d16e78fafdbdb0988c3094f706257b0983f.css?body=1" for ::1 at 2017-02-28 16:00:34 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:00:40 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 54ms (Views: 53.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-1884ac23830f5904e4aafc1e401e7d16e78fafdbdb0988c3094f706257b0983f.css?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/calculator.self-f070b729adc53898fe7813fb8cd437d991b5fd3adcd62326f4627fc12fe86a74.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:00:40 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:00:56 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 206ms (Views: 205.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-1884ac23830f5904e4aafc1e401e7d16e78fafdbdb0988c3094f706257b0983f.css?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:00:56 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:01:30 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 120ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-cb2adefa08a6385cc3cb8bbc70e30e4f2b003f9bada7b690e406d3c0cc81e359.css?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:01:31 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:01:38 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 113ms (Views: 111.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-3894637c6313b89f9b849b5bf2331fbf4916a908da8bd0beb945e8e67154e8c1.css?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:01:38 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:01:48 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 110.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-22e4344eb5f2e91e61a24557dd180a5c417383c7b02d63b613ca0e49fcd89ecf.css?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:01:48 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:01:53 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 115ms (Views: 114.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-8f88e4c433ea02666107552ce00061bba57774269ea8646419b7e0f8aadce6dc.css?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:01:53 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:01:54 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:01:59 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 53ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-8f88e4c433ea02666107552ce00061bba57774269ea8646419b7e0f8aadce6dc.css?body=1" for ::1 at 2017-02-28 16:01:59 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:01:59 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:02:28 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 144ms (Views: 142.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e70e15c3fc74ed1face0d1784a3e8cfd9020678b97f3095b0355716af169da02.css?body=1" for ::1 at 2017-02-28 16:02:28 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:02:32 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 53ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e70e15c3fc74ed1face0d1784a3e8cfd9020678b97f3095b0355716af169da02.css?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/bootstrap_and_overrides.self-b85ec57930a7e57658a355f494c8fca5e2691f1a1ed6bfd67ddfbf962e55a7ac.css?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/calculator.self-89a46e9fa2d83a640c2afb821ec6f07247023bf879340d231ac1a3977b3d0b2e.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2017-02-28 16:02:32 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:05:29 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 153ms (Views: 152.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e716eaa591b7cbd22da829a12ed8dec630b02d4eab211116953c3c618ce36040.js?body=1" for ::1 at 2017-02-28 16:05:29 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:06:09 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 176ms (Views: 175.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-02bef40be5f3a85f1ea7ea323de5612452af429d13123d9f45b8347a77663742.js?body=1" for ::1 at 2017-02-28 16:06:09 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:16:02 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 162ms (Views: 161.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-38e0ebeac785aff7b7b6995fe354647edb67659e61c1340ccb03468281955dc9.js?body=1" for ::1 at 2017-02-28 16:16:02 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:18:02 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 16:25:38 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 52ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 16:26:06 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 162ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-ff6de61dc2c9af0dce19db4fc6bd1a3861bd53076107b6ea35ae609bf347a457.js?body=1" for ::1 at 2017-02-28 16:26:06 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:26:28 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 174ms (Views: 170.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-a60372b9cb6b9afadd030d006e6dd4d28a96f58925a4800c66d82c82b06fc57a.js?body=1" for ::1 at 2017-02-28 16:26:28 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:27:22 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 55ms (Views: 54.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-28 16:34:51 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 159ms (Views: 157.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-c97bebbecb7426551446dc97dc7b7bf5b08df0dbc6c5aa1ec7312c077dd7f481.js?body=1" for ::1 at 2017-02-28 16:34:51 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:35:04 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 154ms (Views: 153.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/calculator.self-e8f521f8df306edcbdc361cd8b7bc0b834e3896c02521d4e413b188a6699d704.js?body=1" for ::1 at 2017-02-28 16:35:05 -0300
+
+
+Started GET "/" for ::1 at 2017-02-28 16:47:08 -0300
+Processing by CalculatorController#index as HTML
+  Rendered calculator/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 72ms (Views: 70.9ms | ActiveRecord: 0.0ms)
