@@ -1,6 +1,6 @@
 <div class="form-group">
-	<%= label_tag(:volume, "Volume (mL)") %>
-	<%= number_field_tag :volume, "", class: 'form-control', placeholder: '1000' %>
+	<div><%= label_tag(:volume, "Quantidade (mL)") %></div>
+	<div><%= number_field_tag :volume, "", class: 'form-control', placeholder: '1000' %></div>
 </div>
 <div class="form-group">
 	<%= label_tag(:alcoholicPercentage, "Teor Alcóolico (%)") %>
@@ -10,6 +10,8 @@
 	<%= label_tag(:price, "Preço (R$)") %>
 	<%= number_field_tag :price, "", class: 'form-control', placeholder: '35' %>
 </div>
-<%= button_tag("Calcular", :id => "calculate_button", :class => "btn btn-success") %>
+<div class="center-container">
+	<%= button_tag("Calcular", :id => "calculate-button", :class => "btn btn-success btn-lg") %>
+</div>
 
-<div id="pricePerML"></div>
+<h2 id="price-per-ml"></h2>

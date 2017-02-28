@@ -1,0 +1,17 @@
+I"l(function() {
+  $(document).ready(function() {
+    return $("#calculate-button").click(function() {
+      var alcoholicPercentage, price, pricePerML, totalAlcohol;
+      if (volume !== $("#volume").val()) {
+        $("#volume").attr("class", $("#volume").attr("class") + " empty-field-alert");
+      }
+      alcoholicPercentage = $("#alcoholicPercentage").val();
+      price = $("#price").val();
+      totalAlcohol = (alcoholicPercentage * volume) / 100;
+      pricePerML = price / totalAlcohol;
+      return $("#price-per-ml").html("Preço por mL de álcool: R$" + pricePerML.toFixed(2));
+    });
+  });
+
+}).call(this);
+:ET
