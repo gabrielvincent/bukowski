@@ -10,13 +10,13 @@
 
 <%= label_tag(:volume, "Volume") %>
 <%= text_field_tag(:volume) %>
-
+<br>
 <%= label_tag(:alcoholicPercentage, "Teor Alcóolico") %>
 <%= text_field_tag(:alcoholicPercentage) %>
-
+<br>
 <%= label_tag(:price, "Preço") %>
 <%= text_field_tag(:price) %>
+<br>
+<%= button_tag("Calcular", :id => "calculate_button", :class => "btn-success") %>
 
-<%= submit_tag("Calcular", :id => "calculate_button") %>
-
-<div id="test"></div>
+<div id="pricePerML"></div>

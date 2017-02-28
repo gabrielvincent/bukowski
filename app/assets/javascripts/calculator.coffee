@@ -13,4 +13,4 @@ $(document).ready ->
 		totalAlcohol = (alcoholicPercentage * volume) / 100
 		pricePerML = price / totalAlcohol
 
-		$("#test").append "Preço por mL de álcool: R$" + pricePerML.toFixed(2)
+		$("#pricePerML").append "Preço por mL de álcool: R$" + pricePerML.toFixed(2)
