@@ -1,1 +1,22 @@
-Calculator
+<!-- <form>
+	Volume <input type="text"> mL
+	<br>
+	Teor alcóolico <input type="text"> %
+	<br>
+	Preço R$<input type="text"> 
+	<br>
+	<input type="submit" value="Calcular">
+</form> -->
+
+<%= label_tag(:volume, "Volume") %>
+<%= text_field_tag(:volume) %>
+
+<%= label_tag(:alcoholicPercentage, "Teor Alcóolico") %>
+<%= text_field_tag(:alcoholicPercentage) %>
+
+<%= label_tag(:price, "Preço") %>
+<%= text_field_tag(:price) %>
+
+<%= submit_tag("Calcular", :id => "calculate_button") %>
+
+<div id="test"></div>

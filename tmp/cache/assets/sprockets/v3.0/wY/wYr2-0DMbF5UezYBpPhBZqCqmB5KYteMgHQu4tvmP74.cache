@@ -1,0 +1,9 @@
+I"°(function() {
+  $(document).ready(function() {
+    return $("#calculate_button").click(function() {
+      return alert($("#volume:textbox").val);
+    });
+  });
+
+}).call(this);
+:ET

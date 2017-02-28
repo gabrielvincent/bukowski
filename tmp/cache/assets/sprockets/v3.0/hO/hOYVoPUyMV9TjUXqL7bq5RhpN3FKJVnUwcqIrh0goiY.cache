@@ -1,0 +1,11 @@
+I"Ó(function() {
+  $(document).ready(function() {
+    return $("#calculate_button").click(function() {
+      var volume;
+      volume = $("#volume").val();
+      return alert(volume);
+    });
+  });
+
+}).call(this);
+:ET

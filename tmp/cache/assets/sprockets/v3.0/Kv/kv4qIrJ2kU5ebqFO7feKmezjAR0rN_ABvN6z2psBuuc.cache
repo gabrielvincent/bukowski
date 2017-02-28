@@ -1,0 +1,9 @@
+I"®(function() {
+  $(document).ready(function() {
+    return $("#calculate_button").click(function() {
+      return $("#test").append("Clicked!");
+    });
+  });
+
+}).call(this);
+:ET

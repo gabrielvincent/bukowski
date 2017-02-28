@@ -1,0 +1,9 @@
+I"¯(function() {
+  $(document).ready(function() {
+    return $("#calculate_button").click(function() {
+      return console.log($("#alert").val());
+    });
+  });
+
+}).call(this);
+:ET

@@ -1,0 +1,9 @@
+I"£(function() {
+  $(document).ready(function() {
+    return $("submit").click(function() {
+      return $("#test").append("Clicked!");
+    });
+  });
+
+}).call(this);
+:ET
