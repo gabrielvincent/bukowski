@@ -4,7 +4,6 @@
 
 $(document).ready ->
 
-
 	$("#calculate_button").click ->
 		volume =  $("#volume").val()
 		alcoholicPercentage = $("#alcoholicPercentage").val()

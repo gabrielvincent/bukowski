@@ -1,22 +1,18 @@
-<!-- <form>
-	Volume <input type="text"> mL
-	<br>
-	Teor alcóolico <input type="text"> %
-	<br>
-	Preço R$<input type="text"> 
-	<br>
-	<input type="submit" value="Calcular">
-</form> -->
-
-<%= label_tag(:volume, "Volume") %>
-<%= text_field_tag(:volume) %>
+<div class="form-group">
+	<%= label_tag(:volume, "Volume") %>
+	<%= text_field_tag :volume, "", class: 'form-control' %>
+</div>
 <br>
-<%= label_tag(:alcoholicPercentage, "Teor Alcóolico") %>
-<%= text_field_tag(:alcoholicPercentage) %>
+<div class="form-group">
+	<%= label_tag(:alcoholicPercentage, "Teor Alcóolico") %>
+	<%= text_field_tag :alcoholicPercentage, "", class: 'form-control' %>
+</div>
 <br>
-<%= label_tag(:price, "Preço") %>
-<%= text_field_tag(:price) %>
+<div class="form-group">
+	<%= label_tag(:price, "Preço") %>
+	<%= text_field_tag :price, "", class: 'form-control' %>
+</div>
 <br>
-<%= button_tag("Calcular", :id => "calculate_button", :class => "btn-success") %>
+<%= button_tag("Calcular", :id => "calculate_button", :class => "btn btn-success") %>
 
 <div id="pricePerML"></div>
