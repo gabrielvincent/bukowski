@@ -1,0 +1,36 @@
+I""(function() {
+  $(document).ready(function() {
+    return $("#calculate-button").click(function() {
+      var alcoholicPercentage, price, pricePerML, totalAlcohol, volume;
+      $(".alert-danger").attr("style", "display:none;");
+      if (!(volume = $("#volume").val())) {
+        $(".alert-danger").html("Por favor, informe a quantidade");
+        $(".alert-danger").attr("style", "");
+        $("#volume").focus();
+        return;
+      }
+      if (!(alcoholicPercentage = $("#alcoholicPercentage").val())) {
+        $("#price-per-ml").html("Por favor, informe o teor alcóolico");
+        $("#price-per-ml").attr("class", "empty-field-alert");
+        $("#alcoholicPercentage").focus();
+        return;
+      }
+      if (!(price = $("#price").val())) {
+        $("#price-per-ml").html("Por favor, informe o preço");
+        $("#price-per-ml").attr("class", "empty-field-alert");
+        $("#price").focus();
+        return;
+      }
+      totalAlcohol = (alcoholicPercentage * volume) / 100;
+      pricePerML = price / totalAlcohol;
+      if ((pricePerML = pricePerML.toFixed(2)) === "0.00") {
+        pricePerML = "menos de 1 centavo";
+      } else {
+        pricePerML = "R$" + pricePerML;
+      }
+      return $("#price-per-ml").html("Preço por mL de álcool: " + pricePerML);
+    });
+  });
+
+}).call(this);
+:ET

@@ -6,23 +6,23 @@ $(document).ready ->
 
 	$("#calculate-button").click ->
 
-		$("#price-per-ml").attr("class", "")
+		$(".alert-danger").attr("style", "display:none;")
 
 		if !(volume =  $("#volume").val())
-			$("#price-per-ml").html("Por favor, informe a quantidade")
-			$("#price-per-ml").attr("class", "empty-field-alert")
+			$(".alert-danger > strong").html("Por favor, informe a quantidade")
+			$(".alert-danger").attr("style", "")
 			$("#volume").focus()
 			return
 
 		if !(alcoholicPercentage = $("#alcoholicPercentage").val())
-			$("#price-per-ml").html("Por favor, informe o teor alcóolico")
-			$("#price-per-ml").attr("class", "empty-field-alert")
+			$(".alert-danger > strong").html("Por favor, informe o teor alcóolico")
+			$(".alert-danger").attr("style", "")
 			$("#alcoholicPercentage").focus()
 			return
 
 		if !(price = $("#price").val())
-			$("#price-per-ml").html("Por favor, informe o preço")
-			$("#price-per-ml").attr("class", "empty-field-alert")
+			$(".alert-danger > strong").html("Por favor, informe o preço")
+			$(".alert-danger").attr("style", "")
 			$("#price").focus()
 			return
 
