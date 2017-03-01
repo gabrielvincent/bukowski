@@ -29,8 +29,6 @@ $(document).ready ->
 		totalAlcohol = (alcoholicPercentage * volume) / 100
 		pricePerML = price / totalAlcohol
 
-		console.log "Round: " + Math.round(pricePerML)
-
 		if (pricePerML = pricePerML.toFixed(2)) == "0.00"
 			pricePerML = "menos de 1 centavo"
 		else
