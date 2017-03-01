@@ -34,4 +34,12 @@ $(document).ready ->
 		else
 			pricePerML = "R$" + pricePerML
 
-		$("#price-per-ml").append "Preço por mL de álcool: " + pricePerML + "<hr>"
+		pricePerMLContainer = ""
+
+
+		if $("#price-per-ml").children("div").length % 2 == 0
+			pricePerMLContainer = "<div class='price-per-ml-container price-per-ml-container-dark'>" + "Preço por mL de álcool: " + pricePerML + "</div>"
+		else
+			pricePerMLContainer = "<div class='price-per-ml-container price-per-ml-container-light'>" + "Preço por mL de álcool: " + pricePerML + "</div>"
+
+		$("#price-per-ml").append pricePerMLContainer

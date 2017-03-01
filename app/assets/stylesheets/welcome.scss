@@ -1,0 +1,57 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@font-face {
+  font-family: 'Tox Typewriter';    
+  src: url('/assets/ToxTypewriter.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.main-container {
+	padding: 11px;
+	width:100%;
+	height:100%;
+}
+
+.welcome-container {
+
+	background-color:white;
+}
+
+#bukowski-image {
+
+	width:50%;
+	display:inline-block;
+}
+
+#bukowski-signature {
+
+	width:100%;
+	display:inline-block;
+	margin-top:11%;
+}
+
+#description-container {
+
+	width:50%;
+	display:table-cell;
+	float:right;
+	font-family: ToxTypewriter;
+
+	h1 {
+		// font-size: 46pt;
+		font-size: 4.7vw;
+	}
+
+	h2 {
+		// font-size: 21pt;
+		font-size: 2.15vw;
+	}
+
+	input {
+
+		margin-top:22px;
+	}
+}

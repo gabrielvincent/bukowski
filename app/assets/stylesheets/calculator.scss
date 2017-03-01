@@ -2,8 +2,10 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-#main-container {
-	padding: 10px;
+#calculator-container {
+
+	height:100%;
+	width: 100%;
 }
 
 .alert {
@@ -21,15 +23,38 @@
 	#title {
 
 		color:#f4f4f4;
+		font-family: ToxTypewriter;
 		font-size: 97%;
 		font-weight: bold;
 		text-align: center;
 	}
 }
 
+.price-per-ml-container {
+
+	padding:11pt;
+}
+
+.price-per-ml-container-light {
+
+	background-color:#f4f4f4;
+}
+
+.price-per-ml-container-dark {
+
+	background-color:#c3c3c3;
+}
+
 .empty-field-alert {
 
 	color:#d43f3a !important;
+}
+
+.form-group {
+
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
 }
 
 #price-per-ml {

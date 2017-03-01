@@ -1,10 +1,10 @@
 <div class="header">
 
-	<div id="title">Bukowski – Calculadora de álcool</div>
+	<div id="title">Bukowski – Calculadora de Álcool</div>
 
 </div>
 
-<div id="main-container">
+<div  id="calculator-container" class="main-container">
 
 	<div class="alert alert-danger fade in" style="display:none;">
 		<strong></strong>
@@ -12,20 +12,20 @@
 
 	<div class="form-group">
 		<div><%= label_tag(:volume, "Quantidade (mL)") %></div>
-		<div><%= number_field_tag :volume, "", class: 'form-control', placeholder: '1000' %></div>
+		<div><%= number_field_tag :volume, "", class: 'form-control' %></div>
 	</div>
 	<div class="form-group">
 		<%= label_tag(:alcoholicPercentage, "Teor Alcóolico (%)") %>
-		<%= number_field_tag :alcoholicPercentage, "", class: 'form-control', placeholder: '38' %>
+		<%= number_field_tag :alcoholicPercentage, "", class: 'form-control' %>
 	</div>
 	<div class="form-group">
 		<%= label_tag(:price, "Preço (R$)") %>
-		<%= number_field_tag :price, "", class: 'form-control', placeholder: '35' %>
+		<%= number_field_tag :price, "", class: 'form-control' %>
 	</div>
 	<div class="center-container">
 		<%= button_tag("Calcular", :id => "calculate-button", :class => "btn btn-success btn-lg") %>
 	</div>
 
-	<h2 id="price-per-ml"></h2>
-
 </div>
+
+<h2 id="price-per-ml"></h2>
