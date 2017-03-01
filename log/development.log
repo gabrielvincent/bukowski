@@ -16903,3 +16903,49 @@ ActionController::RoutingError (No route matches [GET] "/assets/ToxTypewriter.wo
 
 
 Started GET "/assets/ToxTypewriter.ttf" for 127.0.0.1 at 2017-03-01 19:27:06 -0300
+
+
+Started GET "/" for ::1 at 2017-03-01 20:13:50 -0300
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (714.2ms)
+Completed 500 Internal Server Error in 740ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...pewriter.woff")": expected ";", was ") format('woff'),"):
+    1: <%= image_tag "bukowski.png", :id => "bukowski-image" %>
+    2: 
+    3: <div id="welcome-container" class="main-container">
+    4: 	<div id="description-container">
+  app/assets/stylesheets/welcome.scss:8
+  app/views/welcome/index.html.erb:1:in `_app_views_welcome_index_html_erb___1824647246145261105_70205542965980'
+
+
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.0ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (104.0ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (89.9ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/gabrielvincent/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (195.4ms)
+
+
+Started GET "/" for ::1 at 2017-03-01 20:14:21 -0300
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (93.6ms)
+Completed 200 OK in 193ms (Views: 192.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e73766364237201dc2d332ba12a7736c15579d7cfb5a9360ca0e29331ef55ad5.css?body=1" for ::1 at 2017-03-01 20:14:22 -0300
+
+
+Started GET "/assets/bukowski-2c76729e62b4fb166c6cddbc343157c5f7f5ea00805512e516721ceed4528e8c.png" for ::1 at 2017-03-01 20:14:22 -0300
+
+
+Started GET "/assets/signature-b0e39314dc3e2b7fd149765b16b799293cf9fd4f90f5be2fbf691d0b09850bb2.png" for ::1 at 2017-03-01 20:14:22 -0300
+
+
+Started GET "/assets/ToxTypewriter-c181571b9efc59bfd14f0b58dee525329d823d58b71f23797dfaa7ca7010f74e.ttf" for ::1 at 2017-03-01 20:14:22 -0300

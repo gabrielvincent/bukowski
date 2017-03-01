@@ -4,10 +4,7 @@
 
 @font-face {
     font-family: 'ToxTypewriter';
-    src: url('/assets/ToxTypewriter.eot') format('eot'),
-        url('/assets/ToxTypewriter.woff') format('woff'),
-        url('/assets/ToxTypewriter.ttf') format('truetype'),
-        url('/assets/ToxTypewriter.svg#webfontFHzvtkso') format('svg');
+    src:  font_url("ToxTypewriter.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
