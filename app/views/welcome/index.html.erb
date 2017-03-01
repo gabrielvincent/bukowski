@@ -1,13 +1,13 @@
-<div id="welcome-container" class="main-container">
+<%= image_tag "bukowski.png", :id => "bukowski-image" %>
 
-	<%= image_tag "bukowski.png", :id => "bukowski-image" %>
+<div id="welcome-container" class="main-container">
 	<div id="description-container">
 		<%= image_tag "signature.png", :id => "bukowski-signature" %>
 		<h1>Calculadora de Álcool</h1>
 		<h2>O álcool mais barato que o dinheiro pode comprar</h2>
 
 		<div class="center-container">
-			<%= button_to "Calcular", :calculator, :class => "btn-default btn-lg" %>
+			<%= button_to "Calcular", :calculator, :class => "btn-default btn-sm" %>
 		</div>
 	</div>
 
